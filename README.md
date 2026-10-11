@@ -16,9 +16,9 @@ I deployed the first version about a year ago and I still use it every day, addi
 
 `/help` inside the bot lists all commands. Access is limited to a few Telegram user IDs set in `.env`.
 
-## How it was built
+## Background
 
-I started this project with a lot of help from AI, since I had little Python and API experience at the time. As I learned, I took over more and more of the code myself: today I write most of it on my own and use AI mainly as a helper for code review and ideas. The bot is built around my own day-to-day tasks, so I use it much more than anyone else does.
+I built this bot around my own daily tasks as an affiliate manager and have been extending it for about a year. I started with AI assistance while learning Python and the Scaleo API, and over time I took over most of the development; today I use AI mainly for code review and ideas.
 
 ## Example output
 
